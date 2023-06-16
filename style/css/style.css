@@ -1,0 +1,41 @@
+
+.main{
+    justify-content: center;
+    text-align: center;
+    background-color:white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.datapribadi{
+    justify-content: center;
+    text-align: center;
+}
+.judul{
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: bold;
+    
+}
+
+img{
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    margin-top: 20px;
+    
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.about{
+display: flex;
+text-align: center;
+justify-content: center;
+}
