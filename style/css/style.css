@@ -1,11 +1,16 @@
+body{
+    font-family: Georgia, serif;
+}
+
 
 .main{
     justify-content: center;
     text-align: center;
     background-color:white;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    background-color: antiquewhite;
 }
+
+
 .datapribadi{
     justify-content: center;
     text-align: center;
@@ -14,6 +19,7 @@
     font-size: 30px;
     margin-top: 50px;
     font-weight: bold;
+    color: red;
     
 }
 
@@ -22,6 +28,7 @@ img{
     width: 350px;
     height: 350px;
     margin-top: 20px;
+    margin-bottom: 20px;
     
 }
 
@@ -37,5 +44,16 @@ h1{
 .about{
 display: flex;
 text-align: center;
-justify-content: center;
+justify-content: center; 
+}
+
+.about a{
+    letter-spacing: 3px;
+    margin-right: 20px;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 50px;
 }
