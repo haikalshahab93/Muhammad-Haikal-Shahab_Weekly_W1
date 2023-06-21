@@ -5,7 +5,7 @@
 
 
 
-#Description :
+# Description :
 ini adalah tugas pertama [Muhammad Haikal Shahab](https://haikalshahab.netlify.app), membuat cv menggunakan html,css dan javascript di Revou.
 
 
@@ -40,15 +40,15 @@ hi, i'm [Muhammad Haikal Shahab](https://haikalshahab.netlify.app), a passionate
 <br>
 <br>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+📊 **Pembelajaran Dan Penggunaan:**
+<!--START_SECTION:-->
 ```txt
 Javascript            ███████████████████████▓░   97.1 %
 Css                   █▒░░░░░░░░░░░░░░░░░░░░░░░   0.5 %
 Html                  ████░░░░░░░░░░░░░░░░░░░░░░░░░   2.4 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:-->
 
 
 
