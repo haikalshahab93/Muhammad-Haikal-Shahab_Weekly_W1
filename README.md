@@ -1,19 +1,14 @@
+<img src="style/image/web.png" width="100%" height="250">
 
 
 # Muhammad-Haikal-Shahab_Weekly_W1
-# https://haikalshahab.netlify.app/
 
 
-<img src="style/image/android.png" width="250" height="250">
-<img src="style/image/web.png" width="250" height="250">
 
 #Description :
 ini adalah tugas pertama [Muhammad Haikal Shahab](https://haikalshahab.netlify.app), membuat cv menggunakan html,css dan javascript di Revou.
 
 
-
-
-#Klik [https://haikalshahab.netlify.app/](https://haikalshahab.netlify.app/) untuk membuka netlify muhammad haikal shahab. 
 
 <a href="https://www.instagram.com/haikal02502/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"  />
@@ -38,8 +33,11 @@ hi, i'm [Muhammad Haikal Shahab](https://haikalshahab.netlify.app), a passionate
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+
+
+<br>📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+
 
 ```txt
 Javascript            ███████████████████████▓░   97.1 %
